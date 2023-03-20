@@ -1,0 +1,10 @@
+html, body{
+    background-color: black;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkgoldenrod;
+    font-size: xx-large;
+    font-style: italic;
+    border-style: inset;
+}
