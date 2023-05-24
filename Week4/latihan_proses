@@ -1,0 +1,4 @@
+<?php
+    $no = $_GET['no'];
+    echo "Nomor yang diklik adalah $no"
+?>

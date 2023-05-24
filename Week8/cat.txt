@@ -1,0 +1,6 @@
+rowspan adalah atribute dari td
+colspan adalah atribute dari td
+
+thread adalah kelompok baris header
+tbody adalah kelompok baris body
+tfooter adalah kelomok baris footer
